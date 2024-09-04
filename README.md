@@ -10,8 +10,8 @@ Empowering Energy Equity through Machine Learning Innovations for Energy Analysi
 
 ## 💻 Technical Skills
 - **Machine Learning:** TensorFlow, PyTorch
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **Programming:** Python (Pandas, NumPy), R, C, Java
+- **Data Visualisation:** Tableau, Matplotlib, Seaborn
+- **Programming:** Python, R, C, Java
 - **Database:** MySQL, MongoDB
 - **Big Data:** Hadoop, MapReduce, Spark
 - **Cloud:** Google Cloud Platform, Azure, AWS
